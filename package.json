@@ -1,0 +1,11 @@
+{
+  "name": "hapistack,
+  "version": "0.0.1",
+  "description": "An application template for staring new Hapi + Angular projects",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Loc Nguyen, lochnguyen@gmail.com",
+  "license": "MIT"
+}
